@@ -1,0 +1,15 @@
+{
+  "version": "1.8.0-dev.1",
+  "commit": "ef9bd26889c7120aed214423ca42367c59a61ab3",
+  "dirty": true,
+  "builtAt": "2026-09-24T06:41:15.967Z",
+  "engineAssets": "c7c29eff0df3b1f3",
+  "channel": "development",
+  "difficultyBaseline": {
+    "id": "v1.7.x-easy35",
+    "sourceCommit": "1a80d9be582eac198741a9faf148a129e7472a7c",
+    "productDecision": "ACCEPTED_FOR_V1_8",
+    "certification": "NOT_CERTIFIED"
+  },
+  "difficultyProfileHash": "e073a5db05777fcccc42af146da45f376b5f08d2cc8d701e3c6ed49f361e1f64"
+}

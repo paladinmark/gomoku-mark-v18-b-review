@@ -1,0 +1,23 @@
+{
+  "name": "五子棋研习室 · Gomoku Forge",
+  "short_name": "五子棋研习室",
+  "id": "./",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "description": "通过实战、复盘和针对性训练学习五子棋，支持离线使用。",
+  "theme_color": "#e9dfca",
+  "background_color": "#e9dfca",
+  "icons": [
+    {
+      "src": "./icons/gomoku-mark-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "./icons/gomoku-mark-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
